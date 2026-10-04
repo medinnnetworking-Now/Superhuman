@@ -1,5 +1,5 @@
 {
-  "name": "memoryband-local",
+  "name": "COsense-local",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,8 @@
   "type": "commonjs",
   "dependencies": {
     "cors": "^2.8.6",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "html5-qrcode": "^2.3.8",
+    "qrcode": "^1.5.4"
   }
 }

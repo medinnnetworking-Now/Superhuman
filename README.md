@@ -1,4 +1,4 @@
-# Superhuman (MemoryBand)
+# Superhuman (COsense)
 
 A wearable smart fall-detection band and local monitoring server built with Seeed Studio XIAO ESP32-S3, MPU-6050 6-axis IMU, and Node.js.
 

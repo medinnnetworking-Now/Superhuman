@@ -103,7 +103,7 @@ const ALT_PORT = 3001;
 
 app.listen(PORT, "0.0.0.0", () => {
   console.log(`\n======================================================`);
-  console.log(`🚀 MemoryBand Local Server Running!`);
+  console.log(`🚀 COsense Local Server Running!`);
   console.log(`👉 Open Dashboard in Browser:  http://localhost:${PORT}`);
   console.log(`👉 Or via Local IP:          http://127.0.0.1:${PORT}`);
   console.log(`👉 ESP32 Endpoint:            http://10.183.58.224:${PORT}/fall`);
